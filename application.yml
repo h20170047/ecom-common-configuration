@@ -23,3 +23,6 @@ microservices:
         fetchPaymentById: http://PAYMENT-SERVICE/payments/
       user-service:
         fetchUserById: http://USER-SERVICE/users/
+
+test:
+  input: 1
