@@ -26,3 +26,7 @@ microservices:
 
 test:
   input: 2
+
+logging:
+  file:
+    name: C:\Users\svjra\Documents\git\Springboot\order-service\app-logs\ecom-log
